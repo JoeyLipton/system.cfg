@@ -21,3 +21,4 @@ If the game does not have a system.cfg file, you'll need to create it and put it
 
 Then you can place the system.cfg file right into the folder. 
 
+[Video PoC](https://youtu.be/nU6kcxZh4eY)
